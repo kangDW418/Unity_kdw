@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Unity_예제
+namespace ConsoleApp1
 {
     class Program
     {

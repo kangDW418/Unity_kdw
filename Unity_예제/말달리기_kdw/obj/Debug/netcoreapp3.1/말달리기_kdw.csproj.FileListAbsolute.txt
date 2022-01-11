@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.exe
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.deps.json
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.dll
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\bin\Debug\netcoreapp3.1\말달리기_kdw.pdb
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.dll
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.pdb
+C:\Users\User\Documents\GitHub\Unity_kdw\Unity_예제\말달리기_kdw\obj\Debug\netcoreapp3.1\말달리기_kdw.genruntimeconfig.cache

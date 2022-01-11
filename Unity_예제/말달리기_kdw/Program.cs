@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace 말달리기_kdw
 {
+
     class Program
     {
         static void Main(string[] args)
@@ -12,7 +13,7 @@ namespace 말달리기_kdw
             int len = arr_horse.Length;
 
             List<string> rank = new List<string>();
-
+           
 
             for (int i = 0; i < len; i++)
             {
@@ -21,7 +22,7 @@ namespace 말달리기_kdw
                 arr_horse[i].distance = GetRand();
             }
 
-            while (true)
+            while (rank.Count < 5)
             {
 
                 for (int j = 0; j < len; j++)
@@ -42,13 +43,11 @@ namespace 말달리기_kdw
 
                 Console.WriteLine("-------------------------------");
 
-
-                Thread.Sleep(100);
-                if (rank.Count >= 5)
-                    break;
-
+                Thread.Sleep(1000);
+                
 
             }
+
             Console.WriteLine("-----순위-----");
             for (int i = 0; i < len; i++)
             {
