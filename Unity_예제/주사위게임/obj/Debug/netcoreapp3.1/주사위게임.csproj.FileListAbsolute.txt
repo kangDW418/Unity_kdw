@@ -1,0 +1,14 @@
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.exe
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.deps.json
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.runtimeconfig.json
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.runtimeconfig.dev.json
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.dll
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\bin\Debug\netcoreapp3.1\주사위게임.pdb
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.csproj.AssemblyReference.cache
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.AssemblyInfoInputs.cache
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.AssemblyInfo.cs
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.csproj.CoreCompileInputs.cache
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.dll
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.pdb
+C:\Users\강동욱\Documents\GitHub\Unity_kdw\Unity_예제\주사위게임\obj\Debug\netcoreapp3.1\주사위게임.genruntimeconfig.cache

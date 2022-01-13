@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\주사위게임\\주사위게임.csproj",
+      "projectName": "주사위게임",
+      "projectPath": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\주사위게임\\주사위게임.csproj",
       "packagesPath": "C:\\Users\\강동욱\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\강동욱\\Documents\\GitHub\\Unity_kdw\\Unity_예제\\주사위게임\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\강동욱\\AppData\\Roaming\\NuGet\\NuGet.Config",
